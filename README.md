@@ -1,2 +1,21 @@
-# php_rest_myblog
- Rest API using pure PHP
+# REST API USING PHP
+
+> This is a simple PHP REST API from scratch with no framework.
+
+## Quick Start
+
+Import the myblog.sql file, change the params in the config/Database.php file to your own
+
+## App Info
+
+### Author
+
+Sean Townsend
+
+### Version
+
+1.0.0
+
+### License
+
+This project is licensed under the MIT License
